@@ -1,7 +1,7 @@
 body
 {
     text-align: center;
-    font-family: "Helvetica";
+    font-family: "Arial";
     color: crimson;
     font-size: 15px;
     margin: 0;
@@ -29,12 +29,12 @@ body
 
 {
     width: 70%;
+
     padding: 1em;
     text-align: left;
     border: 1px solid #000;
     margin: 0 auto;
 }
-
 #post
 {
     padding: 1em;

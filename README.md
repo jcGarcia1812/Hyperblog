@@ -12,6 +12,7 @@ En este curso vemos de todo.
 * El verdadero amor por las buenas prácticas.
 * Trucos muy locos del profesor.
 * Las persondalidades multiples de Freddy.
+* Creado por el incríble J.C.
 
 Y como un amable recordatorio:  ** Este Readme. md es un chiste **. Diseñado para el ejemplo. Si llegas aca no te lo tomes en serio y mejor ve a ver el curso. https://platzi.com/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/
 
